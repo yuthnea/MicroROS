@@ -1,8 +1,18 @@
+
 # MicroROS
+
 Setting up and Examples micro-ROS on any STM32 microcontroller
+
+
+
 # Goal
 If you follow all steps in the tutorial you should have an STM32 microcontroller with a micro-ROS publisher, subcribe,publisher_subscriber, multipl node that transmits messages via UART to your PC running ROS 2. Here you can receive the messages via ros2 topic echo
-# micro-ROS
+
+
+
+## micro-ROS
+
+```bash
 1.) Create a new CubeMx project for your micro controller
 2.) In System Core -> RCC -> High Speed Clock (HSE) select Crystal/Ceramic Resonator
 3.) In System Core -> SYS -> Timebase Source select TIM1
@@ -19,4 +29,7 @@ If you follow all steps in the tutorial you should have an STM32 microcontroller
 7.2.) Optional: In Project Manager -> Code Generator select Generate peripheral intitialization as a pair of '.c/.h' files per peripheral
 8.) Click on Generate Code
 9.) In the root folder of the code you've just generated, clone the following repository (into a subfolder, don't change its name).:
-git clone https://github.com/micro-ROS/micro_ros_stm32cubemx_utils.git
+
+https://github.com/micro-ROS/micro_ros_stm32cubemx_utils.git
+```
+    
