@@ -32,4 +32,9 @@ If you follow all steps in the tutorial you should have an STM32 microcontroller
 
 https://github.com/micro-ROS/micro_ros_stm32cubemx_utils.git
 ```
+
     
+## Authors
+
+- [@yuthnea(Josef-Rith)](https://github.com/yuthnea)
+
