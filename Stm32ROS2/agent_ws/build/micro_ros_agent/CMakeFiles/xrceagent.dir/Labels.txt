@@ -1,0 +1,13 @@
+# Target labels
+ xrceagent
+# Source files and their labels
+/home/josef-reth/STM32CubeIDE/Stm32ROS2/agent_ws/build/micro_ros_agent/CMakeFiles/xrceagent
+/home/josef-reth/STM32CubeIDE/Stm32ROS2/agent_ws/build/micro_ros_agent/CMakeFiles/xrceagent.rule
+/home/josef-reth/STM32CubeIDE/Stm32ROS2/agent_ws/build/micro_ros_agent/CMakeFiles/xrceagent-complete.rule
+/home/josef-reth/STM32CubeIDE/Stm32ROS2/agent_ws/build/micro_ros_agent/agent/src/xrceagent-stamp/xrceagent-install.rule
+/home/josef-reth/STM32CubeIDE/Stm32ROS2/agent_ws/build/micro_ros_agent/agent/src/xrceagent-stamp/xrceagent-mkdir.rule
+/home/josef-reth/STM32CubeIDE/Stm32ROS2/agent_ws/build/micro_ros_agent/agent/src/xrceagent-stamp/xrceagent-download.rule
+/home/josef-reth/STM32CubeIDE/Stm32ROS2/agent_ws/build/micro_ros_agent/agent/src/xrceagent-stamp/xrceagent-update.rule
+/home/josef-reth/STM32CubeIDE/Stm32ROS2/agent_ws/build/micro_ros_agent/agent/src/xrceagent-stamp/xrceagent-patch.rule
+/home/josef-reth/STM32CubeIDE/Stm32ROS2/agent_ws/build/micro_ros_agent/agent/src/xrceagent-stamp/xrceagent-configure.rule
+/home/josef-reth/STM32CubeIDE/Stm32ROS2/agent_ws/build/micro_ros_agent/agent/src/xrceagent-stamp/xrceagent-build.rule
