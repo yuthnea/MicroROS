@@ -33,8 +33,12 @@ If you follow all steps in the tutorial you should have an STM32 microcontroller
 https://github.com/micro-ROS/micro_ros_stm32cubemx_utils.git
 ```
 
-    
+
+
+## Start the micro-ros-agent.
+ros2 run micro_ros_agent micro_ros_agent serial -b 115200 --dev /dev/ttyACM0
+
 ## Authors
 
-- [@yuthnea(Josef-Rith)](https://github.com/yuthnea)
+- [@(yuthnea)Rith-Josef](https://github.com/yuthnea/MicroROS)
 
